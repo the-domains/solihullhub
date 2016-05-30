@@ -1,0 +1,28 @@
+name: solihullhub
+favicon: null
+layout_spectrum: 0.5216963079292327
+typography_spectrum: 0.134805602254346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5179810912813991
+  lightness: 0.12369096418842673
+  saturation: 0.23254033899866045
+  rhythmicContrast: 0.5262564159929752
+purpose: []
